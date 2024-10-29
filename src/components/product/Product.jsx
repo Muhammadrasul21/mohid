@@ -1,7 +1,7 @@
 import React from "react";
 import "../product/Product.scss";
 import { FaStar } from "react-icons/fa";
-import appleSmart from "../../assets/applesmart.png";
+import appleSmart from "../../assets/fitbit.png";
 
 const PRODUCTS = [
   {

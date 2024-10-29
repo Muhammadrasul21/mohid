@@ -1,6 +1,6 @@
 import React from "react";
 import "../subscribe/Subscribe.scss";
-import subscribeWatch from "../../../public/subscribeWatch.png";
+import subscribeWatch from "/subscribeWatch.png";
 const Subscribe = () => {
   return (
     <div className="subscribe">

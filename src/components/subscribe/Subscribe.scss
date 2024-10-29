@@ -1,0 +1,43 @@
+.subscribe {
+    &__wrapper {
+        background: #f6f6f6;
+        border-radius: 22px;
+        height: 377px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        gap: 178px;
+    }
+
+    &__desc {
+        p {
+            font-weight: 700;
+            font-size: 36px;
+            margin-bottom: 12px;
+        }
+
+        span {
+            font-weight: 500;
+            color: #8B8E99;
+            line-height: 19.36px;
+        }
+    }
+
+    &__input {
+        width: 443px;
+        height: 60px;
+        background: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 7px 7px 7px 30px;
+        margin-top: 12px;
+
+        input {
+            border: none;
+            outline: none;
+            padding: 4px;
+            font-size: 16px;
+        }
+    }
+}

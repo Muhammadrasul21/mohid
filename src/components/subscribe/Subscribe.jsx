@@ -1,6 +1,6 @@
 import React from "react";
 import "../subscribe/Subscribe.scss";
-// import subscribeWatch from "/subscribeWatch.png";
+import subscribeWatch from "/subscribeWatch.png";
 const Subscribe = () => {
   return (
     <div className="subscribe">
@@ -17,7 +17,7 @@ const Subscribe = () => {
             </div>
           </div>
           <div className="subscribe__img">
-            {/* <img src={subscribeWatch} alt="" /> */}
+            <img src={subscribeWatch} alt="" />
           </div>
         </div>
       </div>

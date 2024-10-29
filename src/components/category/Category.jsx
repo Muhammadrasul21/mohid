@@ -1,8 +1,8 @@
 import React from "react";
 import "../category/Category.scss";
-import apple from "../../assets/apple.png";
-import xiaomi from "../../assets/xiaomi.png";
-import fitbit from "../../assets/fitbit.png";
+import apple from "../../../public/apple.png";
+import xiaomi from "../../../public/xiaomi.png";
+import fitbit from "../../../public/fitbit.png";
 
 const CATEGORY_ITEMS = [
   {

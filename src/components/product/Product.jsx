@@ -1,7 +1,7 @@
 import React from "react";
 import "../product/Product.scss";
 import { FaStar } from "react-icons/fa";
-import appleSmart from "../../assets/appleSmart.png";
+// import appleSmart from "../../../public/appleSmart.png";
 
 const PRODUCTS = [
   {
@@ -9,42 +9,42 @@ const PRODUCTS = [
     title: "Apple Smart I",
     price: "$300.00",
     info: "$255.00",
-    img: appleSmart,
+    img: "../public/appleSmart.png",
   },
   {
     id: 2,
     title: "Apple Smart II",
     price: "$350.00",
     info: "$295.00",
-    img: appleSmart,
+    img: "../public/appleSmart.png",
   },
   {
     id: 3,
     title: "Apple Smart III",
     price: "$400.00",
     info: "$355.00",
-    img: appleSmart,
+    img: "../public/appleSmart.png",
   },
   {
     id: 4,
     title: "Apple Smart IV",
     price: "$450.00",
     info: "$395.00",
-    img: appleSmart,
+    img: "../public/appleSmart.png",
   },
   {
     id: 5,
     title: "Apple Smart V",
     price: "$500.00",
     info: "$455.00",
-    img: appleSmart,
+    img: "../public/appleSmart.png",
   },
   {
     id: 6,
     title: "Apple Smart VI",
     price: "$550.00",
     info: "$505.00",
-    img: appleSmart,
+    img: "../public/appleSmart.png",
   },
 ];
 

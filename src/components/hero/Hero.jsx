@@ -1,6 +1,6 @@
 import React from "react";
 import "../hero/Hero.scss";
-import heroImg from "../../assets/heroImg.png";
+import heroImg from "../../../public/heroImg.png";
 import { IoSearch } from "react-icons/io5";
 
 const Hero = () => {

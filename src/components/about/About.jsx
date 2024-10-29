@@ -1,8 +1,8 @@
 import React from "react";
 import "../about/About.scss";
 import { FaStar } from "react-icons/fa";
-import hamza from "../../assets/hamza.png";
-import hafiz from "../../assets/hafiz.png";
+import hamza from "../../../public/hamza.png";
+import hafiz from "../../../public/hafiz.png";
 const About = () => {
   return (
     <div className="about">

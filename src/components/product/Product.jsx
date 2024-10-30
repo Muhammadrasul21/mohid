@@ -1,7 +1,7 @@
 import React from "react";
 import "../product/Product.scss";
 import { FaStar } from "react-icons/fa";
-   
+
 const PRODUCTS = [
   {
     id: 1,

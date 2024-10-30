@@ -1,8 +1,7 @@
 import React from "react";
 import "../product/Product.scss";
 import { FaStar } from "react-icons/fa";
-// import appleSmart from "../../../public/appleSmart.png";
-
+   
 const PRODUCTS = [
   {
     id: 1,
